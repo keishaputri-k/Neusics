@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Neusics</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_go_back">Go Back</string>
+    <string name="txt_harvey_cantwell">Harvey Cantwell</string>
+    <string name="txt_hrvy_cantwell_gmail_com">hrvy.cantwell@gmail.com</string>
+    <string name="txt_settings">Settings</string>
+    <string name="title_neusics">Neusics (%1$d/%2$d)</string>
+</resources>
